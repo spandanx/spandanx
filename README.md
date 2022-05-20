@@ -34,7 +34,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p>
+<p align="center">
   <a href="linkedin.com/in/spandan-maity-19b17a171"><img src="https://img.shields.io/badge/-Spandan%20Maity-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:spandanmaity58@gmail.com"><img src="https://img.shields.io/badge/-spandanmaity58@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/spandanx/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
