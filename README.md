@@ -16,7 +16,7 @@
 
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity&logoColor=2C2255)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum&logoColor=2C2255)
-![Remix-IDE](https://img.shields.io/badge/-Remix-IDE-05122A?style=flat&logo=remix&logoColor=2C2255)
+![Remix-IDE](https://img.shields.io/badge/-Remix-IDE-05122A?style=flat&logo=remix-ide&logoColor=2C2255)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-05122A?style=flat&logo=hardhat&logoColor=2C2255)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -28,7 +28,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 
 
