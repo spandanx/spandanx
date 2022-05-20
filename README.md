@@ -7,7 +7,7 @@
 ## :sassy_man:  About me
 - :computer: I am a Software Developer.
 - :student: I’m currently learning: `Blockchain Technology`.
-- :thinking: I’m currently open for: `Solidity/Blockchain Developer` role, this is [MY RESUME](https://drive.google.com/file/d/1L5xiReX9AG33kch2sE4e9aFcJ59Iksvq/view?usp=sharing).
+- :thinking: I’m currently open for: `Solidity/Blockchain Developer` role, this is [MY RESUME](https://drive.google.com/file/d/1LBaA_iODxfgMOFIinsifZqYS3fWT2mUg/view?usp=sharing).
 
 <br>
 
