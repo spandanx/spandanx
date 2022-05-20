@@ -6,7 +6,6 @@
 
 ## :sassy_man:  About me
 - :computer: I am a software developer.
-- :computer: I am a competitive programmer practician mainly at `Leetcode`
 - :student: I’m currently learning: `Blockchain Technology`.
 - :thinking: I’m currently open for: `Solidity/Blockchain Developer` role, this is [MY RESUME](https://drive.google.com/file/d/1KrGIFPUOp18srT9UdCkdz01A7AWbrP_a/view?usp=sharing).
 
