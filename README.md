@@ -15,6 +15,7 @@
 
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity&logoColor=2C2255)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum&logoColor=2C2255)
+![Hyperledger Fabric](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=fabric&logoColor=2C2255)
 ![Remix](https://img.shields.io/badge/-Remix-05122A?style=flat&logo=remix-ide&logoColor=2C2255)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-05122A?style=flat&logo=hardhat&logoColor=2C2255)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
