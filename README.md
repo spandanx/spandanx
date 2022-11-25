@@ -6,22 +6,25 @@
 
 ## :sassy_man:  About me
 - :computer: I am a Software Developer.
-- :student: I’m currently learning: `Blockchain Technology`.
-- :thinking: I’m currently open for: `Solidity/Blockchain Developer` role, this is [MY RESUME](https://drive.google.com/file/d/1LBaA_iODxfgMOFIinsifZqYS3fWT2mUg/view?usp=sharing).
+- :student: I’m currently learning: `Android Development`.
+- :thinking: I’m currently open for: `SWE/SDE` role, this is [MY RESUME](https://drive.google.com/file/d/1LBaA_iODxfgMOFIinsifZqYS3fWT2mUg/view?usp=sharing).
 
 <br>
 
 ### 🛠 &nbsp;Tech Stack
 
-![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity&logoColor=2C2255)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
+![WebSockets](https://img.shields.io/badge/-WebSockets-05122A?style=flat&logo=websockets)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity&logoColor=2C2255)\
 ![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum&logoColor=2C2255)
 ![Hyperledger Fabric](https://img.shields.io/badge/-Hyperledger%20Fabric-05122A?style=flat&logo=fabric&logoColor=2C2255)
 ![Remix](https://img.shields.io/badge/-Remix-05122A?style=flat&logo=remix-ide&logoColor=2C2255)
-![Hardhat](https://img.shields.io/badge/-Hardhat-05122A?style=flat&logo=hardhat&logoColor=2C2255)\
+![Hardhat](https://img.shields.io/badge/-Hardhat-05122A?style=flat&logo=hardhat&logoColor=2C2255)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=node.js)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -43,4 +46,4 @@
 </p>
 
 
-Last Edited on: 20/05/2022
+Last Edited on: Nov 25, 2022
