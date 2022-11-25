@@ -7,7 +7,7 @@
 ## :sassy_man:  About me
 - :computer: I am a Software Developer.
 - :student: I’m currently learning: `Android Development`.
-- :thinking: I’m currently open for: `SWE/SDE` role, this is [MY RESUME](https://drive.google.com/file/d/1LBaA_iODxfgMOFIinsifZqYS3fWT2mUg/view?usp=sharing).
+- :thinking: I’m currently open for: `SWE/SDE` role, this is [MY RESUME](https://drive.google.com/file/d/118dS0MoEAysrsFiLDeXW3vnGLjwlPEB5/view?usp=sharing).
 
 <br>
 
