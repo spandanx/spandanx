@@ -6,7 +6,7 @@
 
 ## :sassy_man:  About me
 - :computer: I am a Software Developer.
-- :student: I’m currently learning: `Android Development`.
+- :student: I’m currently learning: `Deep Lerning`.
 - :thinking: I’m currently open for: `SWE/SDE` role, this is [MY RESUME](https://drive.google.com/file/d/1D5zZyDeqFg0_u3U5HKVZ1eEnKNaYpyi5/view?usp=sharing).
 
 <br>
