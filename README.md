@@ -43,6 +43,7 @@
   <a href="mailto:spandanmaity58@gmail.com"><img src="https://img.shields.io/badge/-spandanmaity58@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/spandanx/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.codechef.com/users/spandanx"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.interviewbit.com/profile/spandanmaity58_0802a74a0ea3"><img alt = "InterviewBit" src="https://img.shields.io/badge/InterviewBit-blue.svg?style=plastic&logo=InterviewBit&logoColor=blue" /></a>
 </p>
 
 
