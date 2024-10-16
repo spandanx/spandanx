@@ -32,7 +32,13 @@
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 
-
+## :scroll:  My Certificates
+ - [Computer Vision Masterclass, Udemy](https://drive.google.com/file/d/1zfRr2XK5XybLqshKUvzKuevLFse5_zAk/view?usp=drive_link)
+ - [Machine Learning: Natural Language Processing in Python (V2), Udemy](https://drive.google.com/file/d/1ygBJ8dIIxN7kPY7SxtBC_PyKdK2AcqEs/view?usp=drive_link)
+ - [MuleSoft Certified Developer - Level 1]()
+ - [Blockchain A-Z™: Learn How To Build Your First Blockchain, Udemy](https://drive.google.com/file/d/1IDL2BJXfj71xyNavAnyt5JZhKIG-Wjla/view?usp=sharing)
+ - [Learn Solidity - Get started with web 3.0 and blockchain, Codedamn](https://drive.google.com/file/d/1InPs_M8bF2J_83wWOtc7Z63U2ndWH1IA/view?usp=sharing)
+ - [Learn solidity smart contract testing, Codedamn](https://drive.google.com/file/d/16BfSk_ajo2N_lI9_SA5RVRrmBz2T7Kex/view?usp=sharing)
 
 <br/>
 
