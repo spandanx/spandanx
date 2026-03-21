@@ -14,7 +14,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![LLM](https://img.shields.io/badge/-LLM-05122A?style=flat&logo=llm&logoColor=2C2255)
-![Generative AI](https://img.shields.io/badge/-GenerativeAI-05122A?style=flat&logo=hardhat&logoColor=2C2255)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-05122A?style=flat&logo=hardhat&logoColor=2C2255)
 ![RAG](https://img.shields.io/badge/-RAG-05122A?style=flat&logo=rag&logoColor=2C2255)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat&logo=langgraph&logoColor=2C2255)
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)&nbsp;
