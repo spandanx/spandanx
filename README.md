@@ -33,6 +33,11 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 
 ## :scroll:  My Certificates
+ - [GenAI Academy: Green Belt, NTT Data](https://certifications.nttltd.global.ntt/0bf9874b-5c6e-4bb6-9d9d-e85c75c4c443)
+ - [Retrieval Augmented Generation Specialization, Packt](https://www.coursera.org/account/accomplishments/specialization/G09A263OVXGO)
+ - [Live Agentic AI And Generative AI Application With Cloud Bootcamp 2.0, krishnaikacademy](https://drive.google.com/file/d/1CUVTLyi4zFKyWL6ZodbhNQGtG2Y1dP4a/view)
+ - [Microsoft Certified: Azure AI Fundamentals](https://drive.google.com/file/d/1I7P9ICYyY6eF_ZoITxtP3oJBkhspO6eH/view)
+ - [Introduction to Transformer-Based Natural Language Processing, NVIDIA](https://drive.google.com/file/d/1zfRr2XK5XybLqshKUvzKuevLFse5_zAk/view)
  - [Computer Vision Masterclass, Udemy](https://drive.google.com/file/d/1zfRr2XK5XybLqshKUvzKuevLFse5_zAk/view?usp=drive_link)
  - [Machine Learning: Natural Language Processing in Python (V2), Udemy](https://drive.google.com/file/d/1ygBJ8dIIxN7kPY7SxtBC_PyKdK2AcqEs/view?usp=drive_link)
  - [MuleSoft Certified Developer - Level 1]()
