@@ -7,7 +7,7 @@
 ## :sassy_man:  About me
 - :computer: I am a Software Developer.
 - :student: I’m currently learning: `Generative AI`.
-- :thinking: I’m currently open for: `SWE/SDE` role, this is [MY RESUME](https://drive.google.com/file/d/19iZ4sOBzHiXXHCdfCEPtiIRM3LHSGdzP/view?usp=sharing).
+- :thinking: I’m currently open for: `SWE/SDE` role, this is [MY RESUME](https://drive.google.com/file/d/1Fk933-KYjJfvPYTjMr970GboeGDdoxWf/view?usp=sharing).
 
 <br>
 
